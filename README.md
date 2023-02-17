@@ -1,1 +1,1 @@
-# Diffusion-model-on-CelebA
+# Diffusion-model
